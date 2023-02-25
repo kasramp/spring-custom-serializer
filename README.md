@@ -1,6 +1,6 @@
 # Spring Boot custom Json serializer/deserializer
 
-A simple example demonstrating how to use `jenson` serializer instead of `jackson`
+A simple example demonstrating how to use `genson` serializer instead of `jackson`
 on Spring Boot.
 
 ## Test
