@@ -1,7 +1,6 @@
 # Spring Boot custom Json serializer/deserializer
 
-A simple example demonstrating how to use `genson` serializer instead of `jackson`
-on Spring Boot.
+A simple example demonstrating how to use `genson` serializer instead of `jackson` on Spring Boot. For `moshi` implementation check `moshi-serializer` branch.
 
 For more details check:
 
