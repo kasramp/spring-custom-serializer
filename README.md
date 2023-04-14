@@ -3,6 +3,10 @@
 A simple example demonstrating how to use `genson` serializer instead of `jackson`
 on Spring Boot.
 
+For more details check:
+
+- [How to use alternative serializers instead of Jackson with Spring Boot](https://www.geekyhacker.com/2023/04/12/how-to-use-alternative-serializers-instead-of-jackson-with-spring-boot/)
+
 ## Test
 
 Run the following curl command, it creates a dummy user:
